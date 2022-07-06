@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+### 关于我
 
-You can use the [editor on GitHub](https://github.com/chencd97/chencd97/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+一名普通的Java后端练习生
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+会写 `hello world`
 
-### Markdown
+爱打游戏 ~~又菜又爱玩~~
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+听音乐
 
-```markdown
-Syntax highlighted code block
+看电影
 
-# Header 1
-## Header 2
-### Header 3
+喜欢各种数码产品
 
-- Bulleted
-- List
+喜欢研究计算机方面的技术
 
-1. Numbered
-2. List
+~~会装系统~~ **不会, 不要再问我怎么重装系统了 (╯°□°）╯︵ ┻━┻**
 
-**Bold** and _Italic_ and `Code` text
+偶尔写写日常, 分享一些自己看到的 或者 有趣的东西
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chencd97/chencd97/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+目前就是这样~~
