@@ -14,17 +14,13 @@
 
 目前就是这样~~
 
-<a href="https://github.com/chencd97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chencd97&show_icons=true&theme=transparent&rank_icon=github" />
-</a>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chencd97&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/chencd97)
 
-<a href="https://github.com/chencd97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chencd97&theme=transparent&langs_count=10&hide_progress=true&hide=SCSS,Less,CSS" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chencd97&theme=transparent&langs_count=10&layout=donut&hide=SCSS,Less,CSS)](https://github.com/chencd97)
 
-### Popular repositories
+<!-- ### Popular repositories -->
 
-<a href="https://github.com/chencd97/chencd97">
+<!-- <a href="https://github.com/chencd97/chencd97">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chencd97&theme=transparent&repo=chencd97" />
 </a>
 <a href="https://github.com/chencd97/memos-web">
@@ -41,4 +37,4 @@
 </a>
 <a href="https://github.com/chencd97/docker-image-project">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chencd97&theme=transparent&repo=docker-image-project" />
-</a>
+</a> -->
