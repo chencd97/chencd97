@@ -14,7 +14,7 @@
 
 目前就是这样~~
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chencd97&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/chencd97)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chencd97&show_icons=true&theme=transparent&count_private=true&rank_icon=github)](https://github.com/chencd97)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chencd97&theme=transparent&langs_count=10&layout=donut&hide=SCSS,Less,CSS)](https://github.com/chencd97)
 
