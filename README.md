@@ -14,13 +14,31 @@
 
 目前就是这样~~
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chencd97&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/chencd97)
+<a href="https://github.com/chencd97">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chencd97&show_icons=true&theme=transparent&rank_icon=github" />
+</a>
+
+<a href="https://github.com/chencd97">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chencd97&theme=transparent&langs_count=10&hide_progress=true&hide=SCSS,Less,CSS" />
+</a>
 
 ### Popular repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chencd97&show_owner=true&&theme=transparent&repo=chencd97)](https://github.com/chencd97/chencd97)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chencd97&show_owner=true&theme=transparent&repo=memos-web)](https://github.com/chencd97/memos-web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chencd97&show_owner=true&theme=transparent&repo=uc2mp3)](https://github.com/chencd97/uc2mp3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chencd97&show_owner=true&theme=transparent&repo=alist-web-dist)](https://github.com/chencd97/alist-web-dist)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chencd97&show_owner=true&theme=transparent&repo=docker-image-base)](https://github.com/chencd97/docker-image-base)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chencd97&show_owner=true&theme=transparent&repo=docker-image-project)](https://github.com/chencd97/docker-image-project)
+<a href="https://github.com/chencd97/chencd97">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chencd97&theme=transparent&repo=chencd97" />
+</a>
+<a href="https://github.com/chencd97/memos-web">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chencd97&theme=transparent&repo=memos-web" />
+</a>
+<a href="https://github.com/chencd97/uc2mp3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chencd97&theme=transparent&repo=uc2mp3" />
+</a>
+<a href="https://github.com/chencd97/alist-web-dist">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chencd97&theme=transparent&repo=alist-web-dist" />
+</a>
+<a href="https://github.com/chencd97/docker-image-base">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chencd97&theme=transparent&repo=docker-image-base" />
+</a>
+<a href="https://github.com/chencd97/docker-image-project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chencd97&theme=transparent&repo=docker-image-project" />
+</a>
