@@ -39,4 +39,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chencd97&theme=transparent&repo=docker-image-project" />
 </a> -->
 
-[![snk](https://raw.githubusercontent.com/chencd97/chencd97/output/github-contribution-grid-snake-dark.svg)](https://github.com/chencd97)
+[![snk](https://raw.githubusercontent.com/chencd97/chencd97/output/github-contribution-grid-snake.svg)](https://github.com/chencd97)
