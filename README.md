@@ -14,29 +14,9 @@
 
 目前就是这样~~
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=chencd97&show_icons=true&theme=transparent&count_private=true&rank_icon=github)](https://github.com/chencd97)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chencd97&theme=transparent&langs_count=10&layout=donut&hide=SCSS,Less,CSS)](https://github.com/chencd97)
-
-<!-- ### Popular repositories -->
-
-<!-- <a href="https://github.com/chencd97/chencd97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chencd97&theme=transparent&repo=chencd97" />
-</a>
-<a href="https://github.com/chencd97/memos-web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chencd97&theme=transparent&repo=memos-web" />
-</a>
-<a href="https://github.com/chencd97/uc2mp3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chencd97&theme=transparent&repo=uc2mp3" />
-</a>
-<a href="https://github.com/chencd97/alist-web-dist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chencd97&theme=transparent&repo=alist-web-dist" />
-</a>
-<a href="https://github.com/chencd97/docker-image-base">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chencd97&theme=transparent&repo=docker-image-base" />
-</a>
-<a href="https://github.com/chencd97/docker-image-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chencd97&theme=transparent&repo=docker-image-project" />
-</a> -->
+<div>
+  <img height="215" src="https://github-readme-stats.vercel.app/api?username=chencd97&show_icons=true&theme=transparent&count_private=true&rank_icon=github" />
+  <img height="215" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chencd97&theme=transparent&langs_count=10&layout=donut&hide=SCSS,Less,CSS" />
+</div>
 
 [![snk](https://raw.githubusercontent.com/chencd97/chencd97/output/github-contribution-grid-snake.svg)](https://github.com/chencd97)
